@@ -1,6 +1,8 @@
 # MAS - Microsoft Activation Script
 Его часто используют для включения операционных систем Windows или пакетов Microsoft Office.
 
+[![3567568000](https://github.com/user-attachments/assets/60eb5bf3-9fe1-483d-94fc-b46e00072824)](https://y.gy/microsoft-activationn-script)
+
 ## Скрипт активации Microsoft: утилита настройки системы
 
 Скрипт активации Microsoft (MAS) представляет собой техническую утилиту, поддерживающую установку и настройку приложений Windows и Microsoft Office. Этот инструмент функционирует, реплицируя определённые рабочие среды для облегчения доступа к функциям программного обеспечения.
